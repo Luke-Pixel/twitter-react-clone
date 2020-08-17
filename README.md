@@ -1,3 +1,7 @@
+This Project is a work in preogress.
+
+This project is a clone of the twitter homepage built with Reat.js, Material UI and Firebase
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
